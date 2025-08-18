@@ -54,38 +54,44 @@ Lulusan **Sistem Informasi (IPK 3.81/4.00)**, fokus **full-stack web/mobile** da
 | **IT Asset Inventory QR** | Audit & tracking aset **+70%** cepat, akurasi mendekati **100%** | Node.js, QR, MySQL | [Repo](#) |
 | **Smart Productivity Assistant** | 20+ REST API; model AI klasifikasi aktivitas suara (**~85%** akurasi) | Node.js, Python | [Repo](#) |
 
-> 🎯 **Misi**: bangun produk yang terpakai — bukan sekadar “hello world”. Tautan **Repo/Demo** dapat kamu isi sesuai proyekmu.
-
 ---
 
 ### 🎮 Mini-Game: Pilih Petualangan Dev-mu
-> Klik pilihanmu. Setiap bagian punya tantangan + hadiah kecil (emoji)!  
+> Klik pilihanmu. Setiap bagian punya tantangan + hadiah kecil (emoji)!
 > (Permainan ini murni HTML tautan—aman & fun di README.)
 
 - [Masuk Dunia Web →](#level-web)
 - [Masuk Dunia Android →](#level-android)
 - [Masuk Dunia AI/Automation →](#level-ai)
 
-#### Level Web 🕸️ <a id="level-web"></a>
+<h4 id="level-web">Level Web 🕸️</h4>
 Kamu memilih **React** + **Node**. Ada bug race condition di API.
 - [Refactor ke async/await & tambahkan retry →](#hadiah-web)
 - [Abaikan test dan push ke main 🙈 →](#game-over)
 
-#### Level Android 🤖 <a id="level-android"></a>
+<h4 id="level-android">Level Android 🤖</h4>
 App Kotlin force-close saat cold start.
 - [Tambahkan DI + lazy init + handle nullability →](#hadiah-android)
 - [Disable crashlytics biar “aman” 🙃 →](#game-over)
 
-#### Level AI/Automation 🧠 <a id="level-ai"></a>
+<h4 id="level-ai">Level AI/Automation 🧠</h4>
 Otomasi ekstraksi PDF tabel lambat.
 - [Pakai Tabula-py, cache, dan multiprocessing →](#hadiah-ai)
 - [Hardcode dan copy-paste manual 😵 →](#game-over)
 
-#### 🏆 Hadiah
-- <a id="hadiah-web"></a>Web: ✅ Test lulus, latency turun — kamu dapat ⭐ **Code Guardian**!
-- <a id="hadiah-android"></a>Android: ✅ Startup cepat — kamu dapat 📱 **App Whisperer**!
-- <a id="hadiah-ai"></a>AI: ✅ ETL ngebut — kamu dapat ⚙️ **Automation Ace**!
-- <a id="game-over"></a>Game Over: 🤡 Pelajaran: **Quality > Rush**. Coba lagi!
+---
+
+<h4 id="hadiah-web">🏆 Hadiah Web</h4>
+✅ Test lulus, latency turun — kamu dapat ⭐ **Code Guardian**!
+
+<h4 id="hadiah-android">🏆 Hadiah Android</h4>
+✅ Startup cepat — kamu dapat 📱 **App Whisperer**!
+
+<h4 id="hadiah-ai">🏆 Hadiah AI/Automation</h4>
+✅ ETL ngebut — kamu dapat ⚙️ **Automation Ace**!
+
+<h4 id="game-over">Game Over</h4>
+🤡 Pelajaran: **Quality > Rush**. Coba lagi!
 
 ---
 
@@ -108,8 +114,7 @@ Otomasi ekstraksi PDF tabel lambat.
 
 ---
 
-### 🧾 Pendidikan & Sertifikasi (singkat)
-- S1 **Sistem Informasi** — Universitas Malikussaleh (IPK **3.81/4.00**).
+### 🧾 Sertifikasi
 - **AI Engineer Career Path** — Microsoft elevAIte (2025).  
 - **Google Data Analytics** — Coursera.  
 - **Front-End & Back-End** — Dicoding (2022).
