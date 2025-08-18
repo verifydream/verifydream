@@ -123,7 +123,6 @@ Otomasi ekstraksi PDF tabel lambat.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
-  <img src="https://raw.githubusercontent.com/verifydream/verifydream/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
