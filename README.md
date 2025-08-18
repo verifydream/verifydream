@@ -57,32 +57,8 @@ Lulusan **Sistem Informasi (IPK 3.81/4.00)**, fokus **full-stack web/mobile** da
 ---
 
 ### 🎮 Mini-Game: Pilih Petualangan Dev-mu
-> Klik pilihanmu. Setiap bagian punya tantangan + hadiah kecil (emoji)!  
 
-- [Masuk Dunia Web →](#level-web)
-- [Masuk Dunia Android →](#level-android)
-- [Masuk Dunia AI/Automation →](#level-ai)
-
-#### Level Web 🕸️ <a id="level-web"></a>
-Kamu memilih **React** + **Node**. Ada bug race condition di API.
-- [Refactor ke async/await & tambahkan retry →](#hadiah-web)
-- [Abaikan test dan push ke main 🙈 →](#game-over)
-
-#### Level Android 🤖 <a id="level-android"></a>
-App Kotlin force-close saat cold start.
-- [Tambahkan DI + lazy init + handle nullability →](#hadiah-android)
-- [Disable crashlytics biar “aman” 🙃 →](#game-over)
-
-#### Level AI/Automation 🧠 <a id="level-ai"></a>
-Otomasi ekstraksi PDF tabel lambat.
-- [Pakai Tabula-py, cache, dan multiprocessing →](#hadiah-ai)
-- [Hardcode dan copy-paste manual 😵 →](#game-over)
-
-#### 🏆 Hadiah
-- <a id="hadiah-web"></a>Web: ✅ Test lulus, latency turun — kamu dapat ⭐ **Code Guardian**!
-- <a id="hadiah-android"></a>Android: ✅ Startup cepat — kamu dapat 📱 **App Whisperer**!
-- <a id="hadiah-ai"></a>AI: ✅ ETL ngebut — kamu dapat ⚙️ **Automation Ace**!
-- <a id="game-over"></a>Game Over: 🤡 Pelajaran: **Quality > Rush**. Coba lagi!
+[![▶ Play Dev Adventure](https://img.shields.io/badge/Play_Dev_Adventure-CLICK-0ea5e9?logo=github)](https://verifydream.github.io/dev-adventure)
 
 ---
 
