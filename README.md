@@ -1,105 +1,187 @@
-<!--
-  Profil README — TM Veri Agustian (@verifydream)
-  Gaya: profesional, ringkas, interaktif, dan bisa di-scan cepat recruiter.
-  Catatan: Ubah link Repo/Demo sesuai punyamu.
--->
+<!-- VARIASI 3: Bento Grid / Visual Cards Style -->
 
-<!-- Hero header dengan animasi -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00a8ff,100:6a00ff&height=180&text=TM%20Veri%20Agustian&fontAlign=50&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer%20•%20Full-Stack%20Developer&descAlign=50&descAlignY=60"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:tmveriagustian@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tmveriagustian%40gmail.com-1f6feb?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/tmveriagustian/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-/in/tmveriagustian-0a66c2?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/verifydream"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-verifydream-111?style=for-the-badge&logo=github"></a>
-</p>
+![Header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=1&section=header)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=3200&pause=800&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+(Web%2FMobile);React.js+%7C+React+Native+%7C+Kotlin+(Android)+%7C+Python;AI+Enthusiast+%7C+Clean+Code+%7C+Shipping+Fast;Open+to+Collaboration+and+Opportunities" />
-</p>
+# 👨‍💻 The Veri Vibe
+
+### Software Engineer yang suka bikin produk dari nol sampai deploy
+
+<br/>
+
+<a href="mailto:tmveriagustian@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/tmveriagustian/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/verifydream"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
+## 🧬 DNA
+
+```javascript
+const veri = {
+  brand: "The Veri Vibe",
+  role: "Software Engineer",
+  location: "Indonesia 🇮🇩",
+  focus: ["Full-Stack Web", "Mobile Apps", "AI/Automation"],
+  currentlyBuilding: "AI-powered productivity tools",
+  funFact: "Bisa convert PDF ke Excel dalam 5 menit (dulu butuh berjam-jam)"
+};
+```
+
+<br/>
+
+## 🛠️ Arsenal
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+<br>Next.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+<br>Laravel
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
+<br>Kotlin
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+<br>Supabase
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+<br>PostgreSQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
+<br>Azure
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+<br>Vercel
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+<br>Tailwind
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🚀 Shipped Products
+
+<table>
+<tr>
+<td width="50%">
+
+### 📊 iSubrek
+> Subscription tracker dengan enkripsi password & Google Calendar sync
+
+**Stack:** Next.js 15 · React 19 · Supabase · Clerk · Drizzle
+
+[🔗 Repository](https://github.com/verifydream/i-subrek)
+
+</td>
+<td width="50%">
+
+### 📧 emailku.
+> Generate unlimited Gmail aliases dengan neo-brutalism UI
+
+**Stack:** Next.js 14 · TypeScript · Tailwind CSS
+
+[🌐 Live Demo](https://emailku.vercel.app) · [🔗 Repo](https://github.com/verifydream/emailku)
+
+</td>
+</tr>
+</table>
+
+
+<table>
+<tr>
+<td width="50%">
+
+### 📱 Daily Tracker
+> Mobile app untuk track habits & daily tasks
+
+**Stack:** React Native · Expo · Supabase · TypeScript
+
+[🔗 Repository](https://github.com/verifydream/daily-track-bolt)
+
+</td>
+<td width="50%">
+
+### 📚 LMS Platform
+> Learning management system dengan admin panel modern
+
+**Stack:** Laravel 12 · Filament 3 · Tailwind · MySQL
+
+[🔗 Repository](https://github.com/verifydream/LMSprojectku)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📈 Real Impact
+
+| Metric | Before | After | Improvement |
+|:-------|:------:|:-----:|:-----------:|
+| PDF Processing | Hours | 5 min | **~95% faster** |
+| Asset Audit | Manual | QR-based | **+70% speed** |
+| E-commerce Flow | Slow | Automated | **4x transactions** |
+
+<br/>
+
+## 📊 Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=verifydream&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&hide=issues" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=verifydream&theme=tokyonight&hide_border=true&background=1a1b27" height="150"/>
+
+</div>
+
+<br/>
 
 ---
 
-### 👋 Ringkas
-Lulusan **Sistem Informasi (IPK 3.81/4.00)**, fokus **full-stack web/mobile** dan **rekayasa AI**. Selesai **AI Engineer (Microsoft elevAIte, 2025)**. Terbiasa membangun sistem end-to-end (React/React Native, Node.js/Express, Kotlin Android, Python) dengan performa dan DX yang rapi.
+<div align="center">
 
-- 🚀 **Impact highlights**:
-  - Otomasi ekstraksi PDF→Excel (Python/Tabula) dari jam → **<5 menit**/dokumen.
-  - Sistem e-commerce digital goods: **93%** percepatan proses & **4×** transaksi harian.
-  - Inventaris aset berbasis QR (Node.js) mempercepat audit **70%**.
+### 💬 Let's Connect!
 
----
+**Open for freelance, collaboration, or full-time opportunities**
 
-### 🧰 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Frontend-React.js-61dafb?logo=react&logoColor=000&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Mobile-React%20Native-61dafb?logo=react&logoColor=000&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Android-Kotlin-7f52ff?logo=kotlin&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Backend-Node.js-3c873a?logo=nodedotjs&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-Data%2FAutomation-3776ab?logo=python&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DB-MySQL%20%7C%20Supabase-4479a1?logo=mysql&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud-Azure-0078d4?logo=microsoftazure&logoColor=fff&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Build-Git%20%7C%20Vercel%20%7C%20CI%2FCD-111?logo=githubactions&logoColor=fff&style=for-the-badge"/>
-</p>
+📍 Indonesia (WIB) · ✉️ [tmveriagustian@gmail.com](mailto:tmveriagustian@gmail.com)
 
----
+<br/>
 
-### 🏗️ Proyek Unggulan
-| Proyek | Deskripsi Singkat | Stack | Link |
-|---|---|---|---|
-| **Kids Zone Parental Control (Android)** | Kontrol orang tua: app blocker, time limit, pass-gate, dashboard; survei pengguna → **90%** puas | Kotlin (Android Studio) | [Repo](#) • [Demo](#) |
-| **E-commerce Digital Goods** | Full-stack untuk komunitas game; otomatisasi PayPal & delivery digital → **93%** lebih cepat | React, Node/Express, Supabase | [Repo](#) • [Demo](#) |
-| **Frontdesk Broadcasting System** | Sistem informasi internal 5 seksi → efisiensi distribusi info **+40%** | PHP Native, MySQL | [Repo](#) |
-| **IT Asset Inventory QR** | Audit & tracking aset **+70%** cepat, akurasi mendekati **100%** | Node.js, QR, MySQL | [Repo](#) |
-| **Smart Productivity Assistant** | 20+ REST API; model AI klasifikasi aktivitas suara (**~85%** akurasi) | Node.js, Python | [Repo](#) |
+*"Build fast. Ship faster. Learn fastest."*
 
----
+**The Veri Vibe**
 
-### 🎮 Mini-Game: Pilih Petualangan Dev-mu
-
-[![▶ Play Dev Adventure](https://img.shields.io/badge/Play_Dev_Adventure-CLICK-0ea5e9?logo=github)](https://verifydream.github.io/dev-adventure)
-
----
-
-### 📊 Stats & Trophies
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=verifydream&show_icons=true&hide=issues&rank_icon=github" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=verifydream" />
-</p>
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verifydream&layout=compact&langs_count=8" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=verifydream&theme=flat&no-frame=true&margin-w=10&row=1" />
-</p>
-
-<details>
-  <summary>📈 Weekly Metrics (auto-update)</summary>
-  <img src="./metrics.svg" alt="metrics"/>
-</details>
-
----
-
-### 🧾 Sertifikasi
-- **AI Engineer Career Path** — Microsoft elevAIte (2025).  
-- **Google Data Analytics** — Coursera.  
-- **Front-End & Back-End** — Dicoding (2022).
-
----
-
-### 🤝 Kontak & Kolaborasi
-- ✉️ **Email**: <a href="mailto:tmveriagustian@gmail.com">tmveriagustian@gmail.com</a>  
-- 💼 **LinkedIn**: <a href="https://www.linkedin.com/in/tmveriagustian/">/in/tmveriagustian</a>  
-- 🕒 Zona waktu: **Asia/Jakarta (WIB)**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-<!-- Footer tip -->
-<p align="center">
-  <sub>Made with ❤️ • If you like my work, consider ⭐ starring the repos.</sub>
-</p>
+</div>
